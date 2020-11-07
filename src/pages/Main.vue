@@ -8,8 +8,11 @@
                     </span>
                     <p>Мессенджер</p>
                 </div>
-                <div class="position-absolute" style="bottom: -10px">
-                    <a href="#">Выйти</a>
+<!--                <div class="position-absolute" style="bottom: -10px">-->
+<!--                    <a href="#">Выйти</a>-->
+<!--                </div>-->
+                <div>
+                    <a href="/auth">Auth</a>
                 </div>
             </div>
             <div class="row flex-grow-1">
