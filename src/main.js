@@ -30,7 +30,7 @@ Vue.use(VueAxios, axios);
 
 // url сервера
 // const url = "http://localhost:8080/";
-const url = "https://jivegram.herokuapp.com/";
+const url = "https://jivegram-server.herokuapp.com/";
 
 const routes = [
 	{
